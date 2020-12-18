@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1db079e-9455-4021-b6d4-fa57cb9aa069</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c69c5864-29f6-4c57-a7d3-c1de746dcfb1</id>
+      <masked>false</masked>
+      <name>aranacak_text</name>
+   </variable>
+</TestCaseEntity>
